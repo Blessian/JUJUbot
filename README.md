@@ -11,17 +11,50 @@
 
 # 📢 프로젝트 소개
 ### 주제 선정 이유
-- 
+- 인공지능 스피커를 활용한 활동이 유아의 표현언어 능력에 영향을 미침
+- 아동의 경우 더 적극적으로 인공지능 스피커와 상호작용하며, 인공지능 스피커 시장에서도 주요 타겟층으로 여겨짐
 
 <br>
 
 ### 주요 기능
-- 
+- STT
+     - 사용자로 부터 음성을 입력 받아 생성한 음성파일을 자연어 문자열로 변환
+     - 자연어 문자열은 챗봇 및 감정분석에 활용하기 위해 활용
+- Chatbot
+     - "치링치링 시크릿 쥬쥬"를 연기하는 챗봇
+     - 해당 캐릭터의 설정을 그대로 연기
+     - 어린이와의 대화에 알맞은 답변을 출력
+- Sentiment Analysis
+     - "치링치링 시크릿 쥬쥬"의 답변에서 감성분석을 통해 감정 추출
+     - 답변과 함께 상황에 알맞은 표정을 짓도록 함
+- WAV to Lipsync
+     - "치링치링 시크릿 쥬쥬"의 입모양을 자연스럽게 바꿔주기 위함
+- Voice Cloning
+     - "치링치링 시크릿 쥬쥬"의 목소리로 답변을 출력
 
 <br>
 
 ### 사용 기술
-사용 기술 나열, 해당 기술의 역할
+[![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge)](https://www.python.org/)
+[![Openai](https://img.shields.io/badge/openai_gpt4-412991?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com/)
+[![Langchain](https://img.shields.io/badge/%F0%9F%A6%9C%F0%9F%94%97langchain-fff?style=for-the-badge)](https://www.langchain.com/)
+[![Flask Badge](https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff&style=for-the-badge)](https://flask.palletsprojects.com/en/3.0.x/)
+[![ngrok Badge](https://img.shields.io/badge/ngrok-1F1E37?logo=ngrok&logoColor=fff&style=for-the-badge)](https://ngrok.com/)
+[![Static Badge](https://img.shields.io/badge/KoBERT-gray)](https://sktelecom.github.io/project/kobert/)
+[![Static Badge](https://img.shields.io/badge/VITS-gray)](https://github.com/jaywalnut310/vits)
+[![Static Badge](https://img.shields.io/badge/RVC-gray)](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI)
+[![Static Badge](https://img.shields.io/badge/Wav2Lip-gray)](https://github.com/Rudrabha/Wav2Lip)
+
+| Tech | Purpose |
+| --- | --- |
+| Openai GPT-4 API |  |
+| Langchain |  |
+| Flask |  |
+| KoBERT |  |
+| ngrok |  |
+| VITS |  |
+| RVC |  |
+| Wav2Lip |  |
 
 
 <br><br>
@@ -95,7 +128,14 @@ AI 기술에 대한 추가 학습 계획이나 심화 프로젝트에 대한 기
 <br><br>
 # 🔗 참고 자료
 ### 사용한 논문 및 자료
-[인공지능 스피커를 활용한 활동이 유아의 언어능력에 미치는 영향](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002770401)
+- [인공지능 스피커를 활용한 활동이 유아의 언어능력에 미치는 영향](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002770401)
+- [인공지능 스피커와 아동들의 상호작용 :유형별 성공/실패 사례 도출을 위한 현장 연구](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002611329)
+- [치링치링 시크릿 쥬쥬](https://www.youtube.com/@SecretJouju)
+- kobert
+- kobart
+- vits
+- rvc
+- wavtolip
 
 
 <!-- 
