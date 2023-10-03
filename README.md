@@ -135,11 +135,10 @@ AI 기술에 대한 추가 학습 계획이나 심화 프로젝트에 대한 기
 - [인공지능 스피커를 활용한 활동이 유아의 언어능력에 미치는 영향](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002770401)
 - [인공지능 스피커와 아동들의 상호작용 :유형별 성공/실패 사례 도출을 위한 현장 연구](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002611329)
 - [치링치링 시크릿 쥬쥬](https://www.youtube.com/@SecretJouju)
-- kobert
-- kobart
-- vits
-- rvc
-- wavtolip
+- [KoBERT](https://sktelecom.github.io/project/kobert/)
+- [VITS](https://github.com/jaywalnut310/vits)
+- [RVC](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI)
+- [Wav2Lip](https://github.com/Rudrabha/Wav2Lip)
 
 
 <!-- 
