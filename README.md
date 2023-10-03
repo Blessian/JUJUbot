@@ -95,7 +95,7 @@ AI 기술에 대한 추가 학습 계획이나 심화 프로젝트에 대한 기
 <br><br>
 # 🔗 참고 자료
 ### 사용한 논문 및 자료
-프로젝트 진행에 참고한 논문, 레퍼런스, 온라인 자료 등 명시
+[인공지능 스피커를 활용한 활동이 유아의 언어능력에 미치는 영향](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002770401)
 
 
 <!-- 
