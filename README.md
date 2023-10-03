@@ -40,10 +40,10 @@
 [![Langchain](https://img.shields.io/badge/%F0%9F%A6%9C%F0%9F%94%97langchain-fff?style=for-the-badge)](https://www.langchain.com/)
 [![Flask Badge](https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff&style=for-the-badge)](https://flask.palletsprojects.com/en/3.0.x/)
 [![ngrok Badge](https://img.shields.io/badge/ngrok-1F1E37?logo=ngrok&logoColor=fff&style=for-the-badge)](https://ngrok.com/)
-[![Static Badge](https://img.shields.io/badge/KoBERT-gray)](https://sktelecom.github.io/project/kobert/)
-[![Static Badge](https://img.shields.io/badge/VITS-gray)](https://github.com/jaywalnut310/vits)
-[![Static Badge](https://img.shields.io/badge/RVC-gray)](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI)
-[![Static Badge](https://img.shields.io/badge/Wav2Lip-gray)](https://github.com/Rudrabha/Wav2Lip)
+[![Static Badge](https://img.shields.io/badge/KoBERT-gray?style=for-the-badge)](https://sktelecom.github.io/project/kobert/)
+[![Static Badge](https://img.shields.io/badge/VITS-gray?style=for-the-badge)](https://github.com/jaywalnut310/vits)
+[![Static Badge](https://img.shields.io/badge/RVC-gray?style=for-the-badge)](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI)
+[![Static Badge](https://img.shields.io/badge/Wav2Lip-gray?style=for-the-badge)](https://github.com/Rudrabha/Wav2Lip)
 
 | Tech | Purpose |
 | --- | --- |
