@@ -52,9 +52,8 @@ class KoGPTChatbot():
                 if q == "quit": break
                     
                 a = ""
+                start_time = time.time()
                 while True:
-                    start_time = time.time()
-
                     input_ids = torch.LongTensor(self.koGPT2_TOKENIZER.encode(self.Q_TKN + q + self.SENT + sent + self.A_TKN + a)).unsqueeze(dim=0)
                     pred = self.model(input_ids)
                     pred = pred.logits
